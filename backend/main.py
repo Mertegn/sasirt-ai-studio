@@ -1,0 +1,1 @@
+print("ŞAŞIRT AI Studio başlatılıyor...")
